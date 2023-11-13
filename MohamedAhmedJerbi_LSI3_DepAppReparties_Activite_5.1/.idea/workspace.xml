@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cbb217f-6aaf-4369-9ed3-0f6ae8e5c1bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RMIConversion_Server/RMIConversion_Server.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RMIConversion_Server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MohamedAhmedJerbi_LSI3_DepAppReparties_Activite_5.1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rmiServer/ConversionServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RMIConversion_Server/src/rmiServer/ConversionServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rmiService/ConversionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/RMIConversion_Server/src/rmiService/ConversionImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rmiService/IConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/RMIConversion_Server/src/rmiService/IConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMIConversion_Client/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMIConversion_Client/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMIConversion_Client/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMIConversion_Client/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMIConversion_Client/RMIConversion_Client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RMIConversion_Client/RMIConversion_Client.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMIConversion_Client/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMIConversion_Client/src/rmiClient/ConversionClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/RMIConversion_Client/src/rmiClient/ConversionClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMIConversion_Client/src/rmiClient/IConversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
