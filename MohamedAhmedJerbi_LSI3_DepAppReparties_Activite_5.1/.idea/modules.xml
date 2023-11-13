@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RMIConversion_Server.iml" filepath="$PROJECT_DIR$/RMIConversion_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MohamedAhmedJerbi_LSI3_DepAppReparties_Activite_5.1.iml" filepath="$PROJECT_DIR$/MohamedAhmedJerbi_LSI3_DepAppReparties_Activite_5.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMIConversion_Client/RMIConversion_Client.iml" filepath="$PROJECT_DIR$/RMIConversion_Client/RMIConversion_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMIConversion_Server/RMIConversion_Server.iml" filepath="$PROJECT_DIR$/RMIConversion_Server/RMIConversion_Server.iml" />
     </modules>
   </component>
 </project>
